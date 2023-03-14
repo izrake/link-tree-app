@@ -22,9 +22,9 @@ const config = {
     },
     {
       key: "twitter",
-      label: "Twitter",
+      label: "Prashant's Twitter",
       iconUrl: Twitter,
-      redirectUrl: "https://twitter.com/SpheronHQ",
+      redirectUrl: "https://twitter.com/prashant_xyz",
     },
     {
       key: "linkedin",
