@@ -50,6 +50,12 @@ const config = {
       iconUrl: Discord,
       redirectUrl: "https://discord.com/invite/ahxuCtm",
     },
+     {
+      key: "telegram",
+      label: "Telegram",
+      iconUrl: Discord,
+      redirectUrl: "https://t.me/izrake,
+    },
     {
       key: "github",
       label: "GitHub",
