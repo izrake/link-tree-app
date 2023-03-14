@@ -55,7 +55,7 @@ const config = {
       key: "telegram",
       label: "Telegram",
       iconUrl: Telegram,
-      redirectUrl: "https://t.me/izrake,
+      redirectUrl: "https://t.me/izrake",
     },
     {
       key: "github",
